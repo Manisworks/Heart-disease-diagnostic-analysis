@@ -13,7 +13,7 @@ DAX (Data Analysis Expressions)
 Power Query
 
 
-# Snapshot of Dashboard (Power BI Service)
+# Snapshot of Dashboard 
 
 ![dashboard_snapo](![Screenshot of dashboard](https://github.com/user-attachments/assets/874088d2-512e-4746-97b1-f5dd5a0acabb))
 
