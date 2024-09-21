@@ -13,17 +13,15 @@ DAX (Data Analysis Expressions)
 Power Query
 
 
-![Publish_Message]()
-
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo]()
+![dashboard_snapo](![Screenshot of dashboard](https://github.com/user-attachments/assets/874088d2-512e-4746-97b1-f5dd5a0acabb))
 
  
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload]()
+![Dashboard_upload](![Screenshot of anlaysis](https://github.com/user-attachments/assets/2ffa2f4f-948a-4ce5-944f-129e89846343))
 
 
 ##Heart Disease Prevalence: (Insights)-
