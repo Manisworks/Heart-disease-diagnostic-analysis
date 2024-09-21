@@ -49,5 +49,3 @@ Power Query
 
 *ST depression predominantly increases in individuals aged 30–40, which is associated with a heightened risk of heart disease.
 
-
-(https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
