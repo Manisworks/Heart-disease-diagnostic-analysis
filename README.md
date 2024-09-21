@@ -1,4 +1,13 @@
 ##Heart Disease Diagnostic Analysis with Power BI
+
+ ###Heart Disease Diagnostic analysis
+
+A brief description of what this project does and who it's for
+
+# Heart Disease Diagnostic analysis-Dashboard
+
+### Dashboard Link :(https://github.com/Manisworks/Heart-disease-diagnostic-analysis/blob/main/heart%20disease%20diagnostic%20analysis.pbit)
+
 This repository showcases a Heart Disease Diagnostic Analysis project using Power BI and Excel. The goal is to visualize and analyze heart disease data for better insights into patient risk factors and trends.
 
 ##Features
